@@ -26,4 +26,4 @@ A command-line Python application for blood-bank staff to manage blood stock, re
 
 ## How to Run
 ```bash
-python3 blood_bank.py
+python3 donors.py
